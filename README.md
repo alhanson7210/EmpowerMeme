@@ -7,5 +7,5 @@ codepen is useful for testing html/css/javascript together: https://codepen.io/p
 
 w3schools has great HTML/CSS tutorials: https://www.w3schools.com/
 
-Mozilla x-ray goggles, gret for looking at how websites are made: https://goggles.mozilla.org/
+Mozilla x-ray goggles, great for looking at how websites are made: https://goggles.mozilla.org/
 
