@@ -9,3 +9,4 @@ w3schools has great HTML/CSS tutorials: https://www.w3schools.com/
 
 Mozilla x-ray goggles, great for looking at how websites are made: https://goggles.mozilla.org/
 
+More Git basics -> branches/repositories/commits/tags/etc --> https://backlog.com/git-tutorial/intro/intro1_1.html
